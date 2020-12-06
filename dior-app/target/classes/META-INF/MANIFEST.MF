@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: jackson-databind-2.9.8.jar trove4j-3.0.3.jar commons-colle
+ ctions4-4.1.jar jackson-core-2.9.8.jar jackson-annotations-2.9.0.jar 
+ annotations-16.0.1.jar okhttp-3.13.0.jar jedis-2.9.0.jar guava-r05.ja
+ r slf4j-api-1.7.25.jar nv-websocket-client-2.5.jar JDA-4.0.0_45.jar S
+ hieldTools.jar jsr305-3.0.2.jar okio-1.17.2.jar gson-2.8.5.jar common
+ s-pool2-2.4.2.jar
+Main-Class: xyz.diogomurano.dior.Dior
+
